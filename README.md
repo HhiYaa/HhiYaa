@@ -1,10 +1,12 @@
-## 👋 Hi, I'm Hiya!
+## About Me
 
-I'm an ✨ Electrical Engineering ✨ student at the University of Waterloo with a growing interest in **digital hardware, embedded systems, FPGA design, and the semiconductor industry**. I'm a curious and hardworking engineer who enjoys learning how things work and turning ideas into real, functional projects.
+👋 Hi, I'm Hiya! I'm an ✨ Electrical Engineering ✨ student at the University of Waterloo with a growing interest in **digital hardware, embedded systems, FPGA design, and the semiconductor industry**. I'm a curious and hardworking engineer who enjoys learning how things work and turning ideas into real, functional projects.
 
-🚀 I'm especially excited about the growing intersection of **AI and hardware** and the technology behind the chips that make it possible. I'm continuing to explore **FPGA design, embedded systems, and chip design** through coursework, hands-on projects, and co-op experience.
+##🚀 Interest
 
-📫 How to reach me:
+I'm especially excited about the growing intersection of **AI and hardware** and the technology behind the chips that make it possible. I'm continuing to explore **FPGA design, embedded systems, and chip design** through coursework, hands-on projects, and co-op experience.
+
+##📫 How to reach me:
 647-895-8939; hiya.npatel03@gmail.com; h358pate@uwaterloo.ca 
 
 <!--
